@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Wow React
+          React, make me a rich beach.
         </a>
       </header>
     </div>
